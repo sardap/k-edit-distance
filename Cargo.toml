@@ -1,0 +1,9 @@
+[package]
+name = "k-edit-distance"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+log = "0.4.29"
+unicode-normalization = "0.1.25"
+unicode-segmentation = { version = "1.12.0", features = ["no_std"] }
