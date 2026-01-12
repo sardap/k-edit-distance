@@ -1,7 +1,10 @@
 [package]
 name = "k-edit-distance"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
+description = "A basic edit distance implementation for korean characters"
+license = "MIT"
+authors = ["Paul Sarda <paul@sarda.dev>"]
 
 [dependencies]
 log = "0.4.29"
